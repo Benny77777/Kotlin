@@ -19,5 +19,6 @@ fun main(args: Array<String>) {
     val(title1,isVeg1) = r1
     println("($title1,$isVeg1)")
     println(r1 === r2)
+    println("thanks")
 
 }
